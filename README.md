@@ -6,4 +6,6 @@
 - ⚡ Fun fact: I've been experimenting with Linux since I was 8 years old.
 - ⚡ Other fun fact: Fork commits do not count towards the contribution calendar (I've lost my streak because of it)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ItsDoomOne)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itsdoomone&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=itsdoomone)
+
