@@ -1,6 +1,6 @@
 ## Hello! I'm Doom.
 
-- 🔭 I’m currently working on Spew, a Domain-Specific Language for installing files and applications.
+- 🔭 I’m currently working on multiple projects, most of then with my friend @MuriloGandini
 - 🌱 I’m currently studying at IFRS - Bento Gonçalves
 - 👯 I’m willing to collaborate on projects related to games and cyphers, which are my main interests.
 - ⚡ Fun fact: I'm a professional ragebaiter
